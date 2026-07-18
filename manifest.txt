@@ -1,0 +1,289 @@
+Functional Army Insignia
+
+Design Manifesto v1.0
+
+Project: Hearts of Iron IV – Functional Army Insignia
+Status: Draft 1.0
+
+------------------------------------------------------------------------
+
+Vision
+
+The purpose of this mod is not to add more army insignia.
+
+The purpose is to make army organization in Hearts of Iron IV more
+intuitive by creating a single, consistent visual language between
+Division Templates and Army Groups.
+
+The player should be able to identify an army’s primary role instantly,
+without memorizing arbitrary symbols.
+
+------------------------------------------------------------------------
+
+The Problem
+
+Division Templates
+
+Division templates already have meaningful icons.
+
+Examples:
+
+-   Helmet → Infantry
+-   Tank → Armor
+-   Truck → Motorized
+-   Mechanized Vehicle → Mechanized
+-   Anchor → Marines
+-   Parachute → Airborne
+-   Mountain → Mountaineers
+
+Players naturally learn these symbols while designing divisions.
+
+Army Insignia
+
+Army insignia use mostly abstract symbols.
+
+Examples:
+
+-   Heart
+-   Club
+-   Diamond
+-   Spade
+-   Star
+
+These symbols are visually distinct but have no military meaning.
+
+Players therefore invent personal mappings such as:
+
+Heart = Armor
+Club = Infantry
+
+These mappings exist only in the player’s memory.
+
+------------------------------------------------------------------------
+
+Design Goal
+
+Army insignia should communicate what an army is, not simply distinguish
+one army from another.
+
+The player should never need to mentally translate:
+
+    Club
+      ↓
+
+Infantry
+
+Instead, recognition should be immediate:
+
+    Helmet
+      ↓
+
+Infantry
+
+------------------------------------------------------------------------
+
+Core Philosophy
+
+Recognition over Recall
+
+Players should recognize symbols immediately.
+
+They should never be required to remember arbitrary associations.
+
+Reuse Existing Knowledge
+
+Never teach the player a second visual language.
+
+If the game already teaches:
+
+Helmet = Infantry
+
+then the army insignia should also use:
+
+Helmet = Infantry
+
+Functional Before Decorative
+
+Every insignia should communicate useful information.
+
+Decoration is secondary.
+
+If an icon does not improve identification, it should not exist.
+
+Vanilla First
+
+Every new insignia should look like it was created by Paradox.
+
+The player should never be able to distinguish original icons from mod
+icons without opening the files.
+
+------------------------------------------------------------------------
+
+Artistic Principles
+
+Match Vanilla Style
+
+New insignia must follow the original visual language:
+
+-   Silhouette
+-   Bevel
+-   Highlight
+-   Shadow
+-   Proportions
+-   Spacing
+-   Transparency
+
+Readability Above Everything
+
+Army insignia are extremely small.
+
+If a detail cannot be recognized instantly, it should be removed.
+
+Simple always beats detailed.
+
+Preserve Silhouettes
+
+Division template symbols already communicate meaning.
+
+Their silhouettes should remain recognizable.
+
+Only artistic adaptation is allowed.
+
+The identity of the icon must never change.
+
+------------------------------------------------------------------------
+
+Functional Principles
+
+Army insignia represent the primary combat identity of an army.
+
+They do not represent support companies.
+
+Valid identities include:
+
+-   Infantry
+-   Elite / Heavy Infantry
+-   Armor
+-   Heavy Armor
+-   Motorized
+-   Mechanized
+-   Marines
+-   Airborne
+-   Mountaineers
+-   Cavalry
+
+Support elements such as Engineers, Logistics, Anti-Air, Anti-Tank,
+Recon and Maintenance should not become primary army insignia.
+
+------------------------------------------------------------------------
+
+Compatibility Principles
+
+The mod extends vanilla rather than replacing it.
+
+Useful existing insignia should remain.
+
+For example, the Anchor is already an excellent Marine symbol.
+
+Only missing functional symbols should be added.
+
+------------------------------------------------------------------------
+
+Engineering Principles
+
+Development follows an engineering process:
+
+Research
+
+↓
+
+Reverse Engineering
+
+↓
+
+Prototype
+
+↓
+
+In-game Testing
+
+↓
+
+Automation
+
+↓
+
+Release
+
+No implementation decision should rely on guesswork.
+
+Every file format and rendering rule should be understood before
+modification.
+
+------------------------------------------------------------------------
+
+Development Philosophy
+
+The first milestone is not creating a helmet.
+
+The first milestone is understanding exactly how the insignia system
+works.
+
+Only then should implementation begin.
+
+------------------------------------------------------------------------
+
+Success Criteria
+
+A player should be able to identify:
+
+-   Infantry armies
+-   Armored armies
+-   Motorized armies
+-   Marine armies
+-   Airborne armies
+
+without clicking, hovering or memorizing symbols.
+
+------------------------------------------------------------------------
+
+Design Rule
+
+Every proposed icon must pass one test:
+
+“Can a Hearts of Iron IV player correctly identify the army type within
+one second?”
+
+If yes, the icon belongs.
+
+If no, redesign it.
+
+------------------------------------------------------------------------
+
+Non-Goals
+
+This mod is not intended to:
+
+-   Replace the vanilla army insignia system.
+-   Introduce fictional or decorative symbols.
+-   Create an icon for every battalion or support company.
+-   Alter game balance or mechanics.
+-   Require players to learn a new visual language.
+
+Its sole purpose is to improve army identification by reusing the visual
+language already established by Hearts of Iron IV’s division template
+icons.
+
+------------------------------------------------------------------------
+
+Final Principle
+
+The best interface is one that requires no thought.
+
+The player should never think:
+
+“What did I assign the spade to?”
+
+They should simply see a helmet and immediately know:
+
+“That is my infantry army.”
