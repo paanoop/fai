@@ -157,7 +157,7 @@ Functional Principles
 Army insignia represent the primary combat identity of an army. They do not represent support companies. 
 
 Valid identities include: 
-- Infantry - Elite / Heavy / Light Infantry - Garrison Infantry 
+- Infantry - Elite / Heavy / Light Infantry / Garrison Infantry 
 - Unimportant Infantry (Like some junk armies from Italy) 
 - Militia forces 
 - Armor (variations of regular / assault / defensive) 
