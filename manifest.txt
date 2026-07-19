@@ -152,25 +152,25 @@ Only artistic adaptation is allowed.
 The identity of the icon must never change.
 
 ------------------------------------------------------------------------
+Functional Principles 
 
-Functional Principles
+Army insignia represent the primary combat identity of an army. They do not represent support companies. 
 
-Army insignia represent the primary combat identity of an army.
-
-They do not represent support companies.
-
-Valid identities include:
-
--   Infantry
--   Elite / Heavy Infantry
--   Armor
--   Heavy Armor
--   Motorized
--   Mechanized
--   Marines
--   Airborne
--   Mountaineers
--   Cavalry
+Valid identities include: 
+- Infantry - Elite / Heavy / Light Infantry - Garrison Infantry 
+- Unimportant Infantry (Like some junk armies from Italy) 
+- Militia forces 
+- Armor (variations of regular / assault / defensive) 
+- Heavy Armor (variations of regular / assault / defensive) 
+- Light Armor (variations of regular / assault / defensive) 
+- Modern Amror (variations of regular / assault / defensive) 
+- Motorized 
+- Mechanized 
+- Marines 
+- Airborne 
+- Mountaineers 
+- Cavalry 
+- Expeditionary Forces indication
 
 Support elements such as Engineers, Logistics, Anti-Air, Anti-Tank,
 Recon and Maintenance should not become primary army insignia.
